@@ -5,5 +5,4 @@ In this repository you can find the projects in the Java programming language th
 
 Neste repositorio poderão ser encontrados os projetos na liguagem de programção Java que disponibilizarei para que possa ser utilizado como material de pesquisa assim como compor meu portifólio de projetos!
 
-WebServicePXP
-This project exemplifies a Java/REST WebService used for sending and receiving information between the local server and a mobile delivery APP.
+WebServicePXP: This project exemplifies a Java/REST WebService used for sending and receiving information between the local server and a mobile delivery APP.
